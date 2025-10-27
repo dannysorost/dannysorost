@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Kamenov
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel 
 ======================================================================================================================================
 
 Full-stack developer and future data scientist
@@ -7,9 +7,9 @@ Full-stack developer and future data scientist
 I've been coding since late 2022, have been learning every day, trying to better myself. Recently I've started taking on clients for website development (front-end & back-end). I wouldn't consider myself a designer, however I can be whenever needed!
 
 * 🌍  I'm based in Sofia, Bulgaria
-* 🖥️  See my portfolio at [here](http://dannykamenov.com)
-* ✉️  You can contact me at [dannykamenov@gmail.com](mailto:dannykamenov@gmail.com)
-* 🚀  I'm currently working on [Iota Kappa Lambda](http://github.com/dannykamenov/Iota-Kappa-Lambda)
+* 🖥️  See my portfolio at 
+* ✉️  You can contact me at 
+* 🚀  I'm currently working on 
 * 🧠  I'm learning Python and AI models
 * 🤝  I'm open to collaborating on cool projects!
 
