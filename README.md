@@ -26,4 +26,4 @@ I've been coding since late 2022, have been learning every day, trying to better
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dannykamenov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dannykamenov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/dannysorost"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dannysorost&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
